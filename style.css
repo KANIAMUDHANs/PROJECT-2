@@ -1,0 +1,76 @@
+body{
+    background-color: rgba(131, 145, 246, 0.964);
+}
+.topx
+{
+    font-size: 50px; background: -webkit-linear-gradient(rgb(254, 85, 0),rgb(197, 81, 201),rgb(115, 0, 255));-webkit-background-clip:text;-webkit-text-fill-color: transparent;text-align: center;
+}
+.head
+{
+    background-color: black;
+    color: aliceblue;
+    display: block;
+    border: 10px solid white;
+    border-radius: 50px;
+}
+ul,li,h5{
+    display: inline-block;
+}
+ul{
+    margin-left: 790px;
+}
+h5{
+   padding: 5px;
+   margin-left: 40px;
+}
+.foter
+{
+    display:block;
+    background-color: black;
+    color: antiquewhite;
+    padding: 11px;
+    width:1450px;
+    height:150px;
+    margin-top: 250px;
+    border-radius: 50px;
+}
+li:hover
+{
+    cursor: pointer;
+    color: rgb(243, 255, 6);  
+}
+a:visited{
+    color: rgb(122, 255, 45);
+}
+
+/* ent contents */
+#iop{
+    background-color: blanchedalmond;
+}
+.con
+{
+margin:30px;
+border-radius: 30px;
+}
+#ko{
+    background-color: rgb(245, 192, 192);
+}
+.pol
+{
+margin:30px;
+border-radius: 30px;
+}
+#mio
+{
+    background-color: aquamarine;
+}
+#wee{
+    background-color: rgb(212, 209, 14);
+}
+#dfs{
+    background-color: rgb(42, 38, 46);
+    color: beige;
+}
+img:hover{
+ transform: scale(1.3);
+}
